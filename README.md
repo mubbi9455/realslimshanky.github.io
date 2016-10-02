@@ -1,4 +1,6 @@
-gdgnd.github.io
+realslimshanky.github.io
 ===============
 
-Github repo for Google Developer Group New Delhi
+This is a short profile page made using the Google Developers Group New Delhi's Github Repo : [gdgnewdelhi.github.io](https://www.github.com/gdgnewdelhi/gdgnewdelhi.github.io)
+
+You can also make this your profile page by simply doing a "Fork" and some modifications.
